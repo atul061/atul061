@@ -1,16 +1,15 @@
-## Hi there 👋
+# Atul
 
-<!--
-**atul061/atul061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I lead marketing, content, and design at LevelUp IAS. I work across growth campaigns, website funnels, content systems, and marketing operations.
 
-Here are some ideas to get you started:
+## What I build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Campaign and launch workflows that teams can actually execute
+- Small tools for reporting, analysis, and repetitive marketing work
+- Clear landing pages and experiments that connect messaging to outcomes
+
+## What you'll find here
+
+Practical projects and notes as I turn marketing processes into reusable systems. Each project will explain the problem, how it works, and what it measures.
+
+**Current focus:** better launch execution, cleaner lead journeys, and AI-assisted workflows with human review.
